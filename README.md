@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrashantKr13&title=-Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrashantKr13&title=Stars)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 <!--
